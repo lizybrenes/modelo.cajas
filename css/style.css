@@ -1,0 +1,20 @@
+div{
+	border: purple 8px solid;
+	background-color: red; 
+	margin: 20px;
+	padding: 80px 25px 50px 80px
+}
+
+
+p{
+	border: blue 10px dotted;
+	text-align: center;
+	padding:10px 0px;
+	margin:80px 25px 50px 80px;
+	background-color: #fff;
+}
+
+
+
+
+	
