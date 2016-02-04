@@ -1,20 +1,20 @@
 div{
-	border: purple 8px solid;
-	background-color: red; 
-	margin: 20px;
-	padding: 80px 25px 50px 80px
+	 border: 10px;
+	 padding: 1px;
+	 background-color: #66CDAA;
+	 margin-color: #ADFF2F;
+
+
 }
-
-
-p{
-	border: blue 10px dotted;
+div div{
+	border-style: dashed;
+	background-color:  #F0FFFF;
+	margin: 20px 50px 20px 50px;
+}
+.uno{
 	text-align: center;
-	padding:10px 0px;
-	margin:80px 25px 50px 80px;
-	background-color: #fff;
 }
-
-
-
-
-	
+#border{
+     border-color: #BA55D3;
+	 border-top-width: 25px solid;
+}
